@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+venv/
+*.ipynb
+*copy.py
+test.html
+
+# OS X Files
+*.DS_Store
+*/__MACOSX/
+
+templates/
+static/
+Procfile
